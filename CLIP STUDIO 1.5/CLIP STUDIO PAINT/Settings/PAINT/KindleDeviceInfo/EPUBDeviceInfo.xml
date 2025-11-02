@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<kindledeviceinfo version="1.0.0">
+  <devices>
+    <device>
+      <name value="HD"/>
+      <resolution shortside="720" longside="1280"/>
+    </device>
+    <device>
+      <name value="XGA"/>
+      <resolution shortside="768" longside="1024"/>
+    </device>
+    <device>
+      <name value="WXGA"/>
+      <resolution shortside="800" longside="1280"/>
+    </device>
+    <device>
+      <name value="FHD"/>
+      <resolution shortside="1080" longside="1920"/>
+    </device>
+    <device>
+      <name value="WUXGA"/>
+      <resolution shortside="1200" longside="1920"/>
+    </device>
+    <device>
+      <name value="QHD"/>
+      <resolution shortside="1440" longside="2160"/>
+    </device>
+    <device>
+      <name value="WQHD"/>
+      <resolution shortside="1440" longside="2560"/>
+    </device>
+    <device>
+      <name value="QXGA"/>
+      <resolution shortside="1536" longside="2048"/>
+    </device>
+    <device>
+      <name value="WQXGA"/>
+      <resolution shortside="1600" longside="2560"/>
+    </device>
+  </devices>
+</kindledeviceinfo>

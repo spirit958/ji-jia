@@ -1,0 +1,1289 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<printcoinforoot version="117">
+  <printingcompanyinfo name="緑陽社" id="1003" url="http://www.ryokuyou.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>1000</maximum>
+    </pagecount>
+    <margin >
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="日光企画" id="50001" url="http://www.nikko-pc.com/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>20</minimum>
+      <maximum>600</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="サンライズ" id="1005" url="http://www.sunrisep.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+	      <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>1200</resolution>
+      <resolutionlist>
+	  <resolution>1200</resolution>
+	  <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>5</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="B5正方形" width="182" height="182">
+    </addbooksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>800</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="くりえい社" id="1007" url="https://www.kurieisha.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>5</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="B5正方形" width="182" height="182">
+    </addbooksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>640</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="コーシン出版" id="50002" url="http://www.ko-sin.co.jp/syindex.htm">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+	      <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>20</minimum>
+      <maximum>1000</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="ねこのしっぽ" id="1014" url="https://www.shippo.co.jp/neko/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>420</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="金沢印刷" id="50003" url="http://www.kanazawa-p.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>500</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="栄光" id="1006" url="http://www.eikou.com/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>1200</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <pagecount>
+      <minimum>20</minimum>
+      <maximum>800</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="シメケン" id="1039" url="https://shimeken.com/">
+    <colorpage>
+      <resolution>300</resolution>
+      <resolutionlist>
+        <resolution>300</resolution>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>300</resolution>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>300</resolution>
+        <resolution>350</resolution>
+		    <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="B5正方形" width="182" height="182">
+    </addbooksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>200</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="しまや出版" id="1004" url="http://www.shimaya.net/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>1000</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="大陽出版" id="50004" url="http://www.taiyoushuppan.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>400</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <addbooksize version="1" name="B5正方形" width="182" height="182">
+    </addbooksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>12</minimum>
+      <maximum>300</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="ポプルス" id="50005" url="https://www.popls.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <addbooksize version="1" name="B5正方形" width="182" height="182">
+    </addbooksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>4</minimum>
+      <maximum>800</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>double</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+  
+  <printingcompanyinfo name="関西美術印刷" id="1022" url="http://www.kanbi.co.jp/comic/3ka/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>500</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+  
+  <printingcompanyinfo name="PICO" id="1100" url="http://www.pico-net.com/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.22</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>700</maximum>
+    </pagecount>
+	  <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="pixivFACTORY" id="50006" url="https://factory.pixiv.net/books">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.19</thickness>
+      <colortype>color</colortype>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.1</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>300</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>false</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>double</covertype>
+      <spinewidthtype>cover</spinewidthtype>
+      <spinewidthdesignate>auto</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+  
+  <printingcompanyinfo name="プリントオン" id="50007" url="https://www.print-on.jp/doujin/doujin_index.htm">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.14</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>500</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="アクシス" id="50008" url="http://axis-publication.com/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.14</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>16</minimum>
+      <maximum>520</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+  
+  <printingcompanyinfo name="サングループ" id="50009" url="http://www.sungroup.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+      <colortype>color</colortype>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>5</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>184</maximum>
+    </pagecount>
+    <margin >
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="ブックネクスト" id="50010" url="https://booknext.ink/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <pagecount>
+      <minimum>12</minimum>
+      <maximum>300</maximum>
+    </pagecount>
+    <margin >
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>double</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="テイズプリント" id="50011" url="https://www.teis-p.com/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.18</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.1</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <addbooksize version="1" name="A6" width="148" height="105">
+    </addbooksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>500</maximum>
+    </pagecount>
+    <margin >
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>double</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="オレンジ工房.com" id="50012" url="https://www.orangekoubou.com/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <addbooksize version="1" name="B5正方形" width="182" height="182">
+    </addbooksize>
+    <pagecount>
+      <minimum>12</minimum>
+      <maximum>152</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="株式会社BRO'S" id="50013" url="https://www.bros-comic.co.jp/">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>300</resolution>
+        <resolution>350</resolution>
+        <resolution>360</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>360</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>360</resolution>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>5</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>800</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="株式会社ホープツーワン" id="50014" url="https://www.hope21.jp">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>12</minimum>
+      <maximum>500</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="EditNetプリンテック" id="50015" url="https://www.EditNet-p.jp">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>400</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>3</ditchwidth>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <pagecount>
+      <minimum>12</minimum>
+      <maximum>400</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+
+  <printingcompanyinfo name="汎用設定(印刷所を後で指定する)" id="0001" url="">
+    <colorpage>
+      <resolution>350</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+      </resolutionlist>
+    </colorpage>
+    <grayscalepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>350</resolution>
+        <resolution>600</resolution>
+      </resolutionlist>
+    </grayscalepage>
+    <monochromepage>
+      <resolution>600</resolution>
+      <resolutionlist>
+        <resolution>600</resolution>
+        <resolution>1200</resolution>
+      </resolutionlist>
+    </monochromepage>
+    <coverpaper>
+      <thickness>0.13</thickness>
+    </coverpaper>
+    <mainpaper>
+      <thickness>0.13</thickness>
+    </mainpaper>
+    <ditchwidth>5</ditchwidth>
+    <booksize name="A4" width="210" height="297">
+    </booksize>
+    <booksize name="A5" width="148" height="210">
+    </booksize>
+    <addbooksize version="1" name="A5正方形" width="148" height="148">
+    </addbooksize>
+    <booksize name="B5" width="182" height="257">
+    </booksize>
+    <addbooksize version="1" name="B5正方形" width="182" height="182">
+    </addbooksize>
+    <booksize name="B6" width="128" height="182">
+    </booksize>
+    <addbooksize version="1" name="A6" width="105" height="148">
+    </addbooksize>
+    <pagecount>
+      <minimum>8</minimum>
+      <maximum>1000</maximum>
+    </pagecount>
+    <margin>
+      <usemargin>true</usemargin>
+    </margin>
+    <coverconstruction>
+      <covertype>normal</covertype>
+      <spinewidthtype>main</spinewidthtype>
+      <spinewidthdesignate>normal</spinewidthdesignate>
+    </coverconstruction>
+  </printingcompanyinfo>
+</printcoinforoot>

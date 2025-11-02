@@ -1,0 +1,41 @@
+@charset "utf-8";
+@media print {
+	.non-print {
+		display:none;
+	}
+}
+* {
+	background-color: transparent;
+	font-family:"ヒラギノ角ゴ ProN W3", -apple-system, BlinkMacSystemFont, Meiryo, "Segoe UI","Noto Sans Japanese", "Helvetica Neue", sans-serif;
+	font-style: normal;
+	text-decoration: none;
+	margin: 0;
+	padding: 0;
+}
+input, button, textarea, select, option, font{
+	-webkit-appearance: none;
+	font-family:"ヒラギノ角ゴ ProN W3", -apple-system, BlinkMacSystemFont, Meiryo, "Segoe UI","Noto Sans Japanese", "Helvetica Neue", sans-serif;
+}
+
+html, body{
+	-webkit-user-drag: none;
+	-webkit-touch-callout:none;
+	-webkit-user-select:none;
+	-moz-user-select: none;
+	-ms-user-select: none;
+	user-select: none;
+
+	scrollbar-face-color: #66676a;
+	scrollbar-track-color:#5c5d5f;
+	scrollbar-arrow-color:#2f2f2f;
+	scrollbar-highlight-color:#8e8e91;
+	scrollbar-shadow-color: #4f4f52;
+	scrollbar-3dlight-color: #5c5d5f;
+	scrollbar-darkshadow-color: #4f4f52;
+
+	border: 0;
+	font-size: 12px;
+	line-height: 150%;
+	background-color:#3F4042;
+	color: #fff;
+}
